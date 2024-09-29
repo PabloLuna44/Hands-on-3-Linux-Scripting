@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Crea un archivo de texto llamado mytext.txt agregando la cadena hola mundo
-echo -e "Create file called mytext.txt adding the string hello to it\n"
+echo -e "Create file called mytext.txt adding the string hello world to it\n"
 echo "hola mundo" > mytext.txt
 
 #Despliega/Imprime en la terminal el contenido de mytext.txt
