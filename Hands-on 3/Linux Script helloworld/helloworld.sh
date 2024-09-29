@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#Imprimir en pantalla helloword
-echo -e "helloword \n"
+#Imprimir en pantalla helloworld
+echo -e "helloworld \n"
 
 #Listar el contenido del directorio actual
 echo -e "List of files and folders in the current directory: \n"
