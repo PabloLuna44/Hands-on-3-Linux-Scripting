@@ -27,15 +27,10 @@ Implementar un Batch Script en Linux, llamado create.sh, para:
 
 Implementar un Script en Linux, llamado helloworld.sh, para:
 
-
+![image](https://github.com/user-attachments/assets/421b3622-d789-4c69-918a-3fe42717f15b)
 
 
 Implementar un Batch Script en Linux, llamado create.sh, para:
 
 ![image](https://github.com/user-attachments/assets/13ea0960-824b-4835-aa16-bfa56a89f2a4)
-
-
-
-
-
 
